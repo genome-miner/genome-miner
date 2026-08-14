@@ -19,6 +19,7 @@
 - 🎓 Biotechnology Graduate—**CGPA: 3.92/4.00 | Ranked 2nd in Class**
 - 🔬 Experience in bioinformatics and computational analysis of biological data
 - 🧪 Research experience at the **Berglund Lab, University at Albany**
+- 📄 Published research on antimicrobial resistance and green-synthesized silver nanoparticles in a [Scopus-indexed journal](https://ppaspk.org/index.php/PPAS-B/article/view/1801)
 - 📊 Applying computational approaches to biological and biomedical research
 
 ## 🛠️ Technical Toolkit
@@ -65,7 +66,7 @@ Building projects to strengthen skills in object-oriented programming, APIs, dat
 
 ## 🌱 Currently Learning
 
-**Data Visualization** · **Machine Learning** · **AI Applications in Biological Research**
+**Data Visualization** · **Machine Learning** · **AI for Biological Research**
 
 <div align="center">
 
