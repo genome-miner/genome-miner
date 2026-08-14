@@ -4,14 +4,19 @@
 
 ### Biotechnology Graduate | Bioinformatics & Computational Biology
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sana-aziz-sial)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/genome-miner)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/sana-aziz-sial/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/genome-miner/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 </div>
 
 ## 👩‍🔬 About Me
 
-- 🎓 Biotechnology Graduate — **CGPA: 3.92/4.00 | Ranked 2nd in Class**
+- 🎓 Biotechnology Graduate—**CGPA: 3.92/4.00 | Ranked 2nd in Class**
 - 🔬 Research experience in **bioinformatics, transcriptomics, and computational analysis**
 - 🧪 Research experience at the **Berglund Lab, University at Albany**
 - 📊 Interested in applying computational approaches to solve biological and biomedical problems
@@ -66,6 +71,6 @@ Building projects while strengthening skills in object-oriented programming, API
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sana_Aziz_Sial-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sana-aziz-sial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-aziz-sial/)
 
 </div>
