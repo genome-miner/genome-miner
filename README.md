@@ -17,9 +17,9 @@
 ## 👩‍🔬 About Me
 
 - 🎓 Biotechnology Graduate—**CGPA: 3.92/4.00 | Ranked 2nd in Class**
-- 🔬 Research experience in **bioinformatics, transcriptomics, and computational analysis**
+- 🔬 Experience in bioinformatics and computational analysis of biological data
 - 🧪 Research experience at the **Berglund Lab, University at Albany**
-- 📊 Interested in applying computational approaches to solve biological and biomedical problems
+- 📊 Applying computational approaches to biological and biomedical research
 
 ## 🛠️ Technical Toolkit
 
@@ -54,12 +54,12 @@ Analysis of RNA-seq data to investigate disease-associated molecular changes and
 #### **`HISAT2` `DESeq2` `rMATS` `R`**
 
 ### 💊 Computational Drug Discovery for AMR
-An in silico investigation of Baicalin against an *E. coli* AMR-associated target using protein preparation, ligand preparation, and molecular docking.
+An in silico investigation of Baicalin against an _E. coli_ AMR-associated target through protein and ligand preparation followed by molecular docking.
 
 #### **`Protein Bioinformatics` `Molecular Docking`**
 
 ### 🐍 Python Projects
-Building projects while strengthening skills in object-oriented programming, APIs, data analysis, and scientific computing.
+Building projects to strengthen skills in object-oriented programming, APIs, data analysis, and scientific computing.
 
 #### **`Python` `OOP` `NumPy` `Pandas`**
 
