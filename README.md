@@ -4,6 +4,8 @@
 
 ### Biotechnology Graduate | Bioinformatics & Computational Biology
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-aziz-sial/)
+
 </div>
 
 ## 👩‍🔬 About Me
@@ -59,11 +61,3 @@ Building projects to strengthen skills in object-oriented programming, APIs, dat
 ## 🌱 Currently Learning
 
 **Data Visualization** · **Machine Learning** · **AI for Biological Research**
-
-<div align="center">
-
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-aziz-sial/)
-
-</div>
