@@ -1,8 +1,10 @@
 <div align="center">
-  
+
 # Sana Aziz Sial
 
 ### Biotechnology Graduate | Bioinformatics & Computational Biology
+
+</div>
 
 ## 👩‍🔬 About Me
 
