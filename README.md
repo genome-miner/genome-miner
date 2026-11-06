@@ -33,6 +33,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-2563EB?style=for-the-badge" alt="RNA-seq"/>
   <img src="https://img.shields.io/badge/RNA--seq-2563EB?style=for-the-badge" alt="RNA-seq"/>
   <img src="https://img.shields.io/badge/HISAT2-2563EB?style=for-the-badge" alt="HISAT2"/>
   <img src="https://img.shields.io/badge/DESeq2-2563EB?style=for-the-badge" alt="DESeq2"/>
