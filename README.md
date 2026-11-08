@@ -57,8 +57,8 @@ An in silico investigation of Baicalin against an _E. coli_ AMR-associated targe
 ### 🐍 Python Projects
 Building projects to strengthen skills in object-oriented programming, APIs, data analysis, and scientific computing.
 
-#### **`Python` `OOP` `NumPy` `Pandas`**
+#### **`Python` `OOP` `NumPy` `Pandas`  `Machine Learning`**
 
 ## 🌱 Currently Learning
 
-**Data Visualization** · **Machine Learning** · **AI for Biological Research**
+**AI for Biological Research**
