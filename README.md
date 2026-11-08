@@ -10,7 +10,7 @@
 
 ## 👩‍🔬 About Me
 
-- 🎓 Biotechnology Graduate—**CGPA: 3.92/4.00 | Ranked 2nd in Class**
+- 🎓 Biotechnology Graduate—**CGPA: 3.92/4.00 | Ranked 4th in Class**
 - 🔬 Experience in bioinformatics and computational analysis of biological data
 - 🧪 Research experience at the **Berglund Lab, University at Albany**
 - 📄 Published research on antimicrobial resistance and green-synthesized silver nanoparticles in a [Scopus-indexed journal](https://ppaspk.org/index.php/PPAS-B/article/view/1801)
