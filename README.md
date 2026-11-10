@@ -61,4 +61,4 @@ Building projects to strengthen skills in object-oriented programming, APIs, dat
 
 ## 🌱 Currently Learning
 
-**`Deep Learning` `AI for Biological Research`**
+**`**Deep Learning**` `**AI for Biological Research**`**
